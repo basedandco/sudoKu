@@ -94,7 +94,7 @@ PRs welcome—especially:
 
 ## 🪪 License
 
-WTFPL — \*“Do What The F*\*\* You Want Public License.”* See LICENSE for the exciting two-line legal doc.
+WTFPL — _“Do What The F\*\*\* You Want Public License.”_ See [LICENSE](LICENSE) for the exciting legal doc.
 
 ---
 
